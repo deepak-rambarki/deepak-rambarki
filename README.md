@@ -34,7 +34,7 @@ drwxr-xr-x  40% query latency reduction achieved
 ┌─[deepak@data-pipeline]─[~/current-mission]
 └──╼ $ cat vision.txt
 Building enterprise-grade data systems that power financial decisions 🚀
-Transforming 4+ years of expertise into scalable, real-time analytics solutions
+Transforming 5+ years of expertise into scalable, real-time analytics solutions
 ```
 
 <br/>
