@@ -226,7 +226,7 @@ availability: "Open for senior data architect opportunities"
 
 ### 🏢 **DATA ENGINEER**
 
-**`Adons Softech • USA • Jan 2022 – Jul 2023`**
+**`Adons Softech • USA • Jan 2021 – Jul 2023`**
 
 <img src="https://img.shields.io/badge/🔗_Multi-Client_Integration-E74C3C?style=flat-square&labelColor=2C3E50"/>
 
@@ -256,7 +256,7 @@ availability: "Open for senior data architect opportunities"
 
 ### 📊 **DATA ANALYST**
 
-**`Cybage Software • India • Jan 2020 – Dec 2022`**
+**`Cybage Software • India • Jan 2019 – Dec 2022`**
 
 <img src="https://img.shields.io/badge/🛒_E-Commerce_Analytics-FF6B6B?style=flat-square&labelColor=2C3E50"/> <img src="https://img.shields.io/badge/📈_Business_Intelligence-4ECDC4?style=flat-square&labelColor=2C3E50"/> <img src="https://img.shields.io/badge/🔄_Process_Automation-F39C12?style=flat-square&labelColor=2C3E50"/>
 
